@@ -1,0 +1,10 @@
+2022-03-15 13:02:27,350 INFO this is my info log
+2022-03-15 13:02:27,350 WARNING this is my warning lol
+2022-03-15 13:02:27,350 ERROR this is my error log
+2022-03-15 13:02:27,350 DEBUG this is my debug log
+2022-03-15 13:04:37,880 INFO this is my info log
+2022-03-15 13:04:37,885 WARNING this is my warning lol
+2022-03-15 13:04:37,885 ERROR this is my error log
+2022-03-15 13:04:37,885 DEBUG this is my debug log
+2022-03-15 13:05:12,711 ERROR this is my error log
+2022-03-15 13:07:39,655 ERROR this is my error log
