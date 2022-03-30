@@ -1,0 +1,236 @@
+2022-03-30 17:24:22,723 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:24:22,723 ERROR error occuredexpected string or bytes-like object
+2022-03-30 17:24:22,723 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1160/2759561574.py", line 9, in word
+    string = re.findall(r'[a-zA-Z]',data)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 17:24:32,880 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:24:32,880 ERROR error occuredexpected string or bytes-like object
+2022-03-30 17:24:32,880 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1160/1011019283.py", line 9, in word
+    string = re.findall(r'[a-zA-Z]',data)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 17:24:41,682 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:24:41,682 ERROR error occuredexpected string or bytes-like object
+2022-03-30 17:24:41,682 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1412/1011019283.py", line 9, in word
+    string = re.findall(r'[a-zA-Z]',data)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 17:24:53,245 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:24:53,245 ERROR error occuredexpected string or bytes-like object
+2022-03-30 17:24:53,245 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1412/3033114590.py", line 9, in word
+    string = re.findall(r'[a-zA-Z]+',data)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 17:27:40,175 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:27:40,175 ERROR error occuredexpected string or bytes-like object
+2022-03-30 17:27:40,175 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1412/3272049748.py", line 9, in word
+    string = re.findall(r'[A-Za-z]+',data)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 17:28:37,823 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:28:57,415 INFO executed successfully
+2022-03-30 17:30:33,975 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:30:53,531 INFO executed successfully
+2022-03-30 17:31:36,427 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:32:01,925 INFO executed successfully
+2022-03-30 17:34:39,515 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:50:22,777 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:50:22,777 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:50:22,777 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:50:22,801 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:50:22,880 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 17:50:40,787 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:50:44,721 INFO executed successfully
+2022-03-30 17:50:44,729 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:50:45,678 INFO executed successfully
+2022-03-30 17:50:45,678 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:50:47,378 INFO executed successfully
+2022-03-30 17:50:47,386 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:51:01,957 INFO executed successfully
+2022-03-30 17:51:01,957 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 17:51:22,620 INFO executed successfully
+2022-03-30 17:51:27,800 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:51:31,687 INFO executed successfully
+2022-03-30 17:51:31,687 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:51:32,673 INFO executed successfully
+2022-03-30 17:51:32,673 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:51:34,401 INFO executed successfully
+2022-03-30 17:51:34,401 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:51:48,706 INFO executed successfully
+2022-03-30 17:51:48,706 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 17:52:08,477 INFO executed successfully
+2022-03-30 17:56:28,581 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 17:56:28,581 ERROR error occuredexpected string or bytes-like object
+2022-03-30 17:56:28,581 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1412/401340924.py", line 9, in mapping
+    string = re.findall(r'[A-Za-z0-9[@_#$%^&*()<>?/\|}{''"":];,.]+',f1)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 17:58:37,271 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 17:58:37,272 ERROR error occuredexpected string or bytes-like object
+2022-03-30 17:58:37,272 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1412/478820137.py", line 9, in mapping
+    string = re.findall(r'[A-Za-z0-9[@_#$%^&*()<>?/\|}{''"":];,.]+',f1)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 18:00:31,605 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:00:31,606 ERROR error occuredexpected string or bytes-like object
+2022-03-30 18:00:31,606 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1412/2292493587.py", line 9, in mapping
+    string = re.findall(r'[A-Za-z0-9[@_#$%^&*()<>?/\|}{''"":];,.]+',f1)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 18:01:46,822 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:01:46,823 ERROR error occuredexpected string or bytes-like object
+2022-03-30 18:01:46,823 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1412/90637412.py", line 9, in mapping
+    a = re.findall(r'[A-Za-z0-9[@_#$%^&*()<>?/\|}{''"":];,.]+',f1)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 18:03:44,215 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:03:44,216 ERROR error occuredexpected string or bytes-like object
+2022-03-30 18:03:44,217 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1412/3882699977.py", line 9, in mapping
+    s = re.findall(r'[A-Za-z0-9[@_#$%^&*()<>?/\|}{''"":];,.]+',f1)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 18:04:04,872 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:04:04,873 ERROR error occuredexpected string or bytes-like object
+2022-03-30 18:04:04,873 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_1412/1198102975.py", line 9, in mapping
+    s = re.findall(r'[A-Za-z0-9[@_#$%^&*()<>?/\|}{''"":];,.]+',f1)
+  File "C:\ProgramData\Anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-30 18:04:37,752 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:07:44,845 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:10:39,451 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:12:50,500 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:13:27,970 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:14:59,415 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:40:52,378 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:40:52,439 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:40:52,455 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:40:52,455 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:40:52,580 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:42:02,649 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:42:02,717 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:42:02,733 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:42:02,764 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:42:03,092 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:44:19,397 INFO I am trying to pass %s text file
+2022-03-30 18:44:46,416 INFO I am trying to pass %s text file
+2022-03-30 18:44:46,417 INFO executed successfully
+2022-03-30 18:44:46,417 INFO executed successfully
+2022-03-30 18:44:46,417 INFO executed successfully
+2022-03-30 18:44:46,417 INFO executed successfully
+2022-03-30 18:44:46,418 INFO executed successfully
+2022-03-30 18:44:46,418 INFO executed successfully
+2022-03-30 18:44:46,418 INFO executed successfully
+2022-03-30 18:44:46,418 INFO executed successfully
+2022-03-30 18:44:46,418 INFO executed successfully
+2022-03-30 18:44:46,418 INFO executed successfully
+2022-03-30 18:44:46,418 INFO executed successfully
+2022-03-30 18:44:46,419 INFO executed successfully
+2022-03-30 18:44:46,419 INFO executed successfully
+2022-03-30 18:44:46,419 INFO executed successfully
+2022-03-30 18:44:46,419 INFO executed successfully
+2022-03-30 18:44:46,419 INFO executed successfully
+2022-03-30 18:44:46,419 INFO executed successfully
+2022-03-30 18:44:46,419 INFO executed successfully
+2022-03-30 18:44:46,420 INFO executed successfully
+2022-03-30 18:44:46,420 INFO executed successfully
+2022-03-30 18:44:46,420 INFO executed successfully
+2022-03-30 18:44:46,420 INFO executed successfully
+2022-03-30 18:44:46,420 INFO executed successfully
+2022-03-30 18:44:46,420 INFO executed successfully
+2022-03-30 18:44:46,421 INFO executed successfully
+2022-03-30 18:44:46,421 INFO executed successfully
+2022-03-30 18:44:46,421 INFO executed successfully
+2022-03-30 18:44:46,421 INFO executed successfully
+2022-03-30 18:44:46,421 INFO executed successfully
+2022-03-30 18:44:46,421 INFO executed successfully
+2022-03-30 18:44:46,421 INFO executed successfully
+2022-03-30 18:44:46,422 INFO executed successfully
+2022-03-30 18:44:46,422 INFO executed successfully
+2022-03-30 18:45:45,693 INFO I am trying to pass %s text file
+2022-03-30 18:46:02,802 INFO I am trying to pass %s text file
+2022-03-30 18:46:02,803 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,803 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,803 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,803 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,804 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,804 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,804 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,804 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,804 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,804 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,804 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,805 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,805 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,805 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,805 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,805 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,805 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,805 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,805 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,806 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,806 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,806 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,806 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,806 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,806 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,806 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,807 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,807 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,807 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,807 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,807 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,807 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:02,807 INFO executed successfully lkfjwkfkweo;ekw
+2022-03-30 18:46:17,204 INFO I am trying to pass %s text file
+2022-03-30 18:46:22,825 INFO I am trying to pass %s text file
+2022-03-30 18:47:24,400 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:47:24,413 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:47:24,417 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:47:24,422 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:47:24,446 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:55:46,128 INFO I am trying to pass %s text file
+2022-03-30 18:56:10,677 INFO executed successfully lkfjwkfkweo;ekwramshyam
+2022-03-30 18:57:08,101 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:57:08,180 INFO Executed successfully
+2022-03-30 18:57:08,181 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:57:08,182 INFO Executed successfully
+2022-03-30 18:57:08,182 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:57:08,214 INFO Executed successfully
+2022-03-30 18:57:08,214 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:57:08,592 INFO Executed successfully
+2022-03-30 18:57:08,592 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:57:08,977 INFO Executed successfully

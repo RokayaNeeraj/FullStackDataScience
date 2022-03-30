@@ -1,0 +1,467 @@
+2022-03-27 21:39:27,135 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:39:27,567 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:39:27,983 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:39:28,406 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:39:28,817 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 21:46:50,127 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:46:50,252 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:46:50,403 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:46:50,419 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:47:02,801 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:47:02,809 INFO executed successfully
+2022-03-27 21:47:02,809 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:47:02,809 INFO executed successfully
+2022-03-27 21:47:54,223 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:47:54,239 ERROR error has happendunsupported operand type(s) for +: '_io.TextIOWrapper' and 'str'
+2022-03-27 21:47:54,239 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_6808/3407999990.py", line 12, in text
+    print(data + 'has' + count +'number of elements')
+TypeError: unsupported operand type(s) for +: '_io.TextIOWrapper' and 'str'
+2022-03-27 21:47:54,239 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:47:54,247 ERROR error has happendunsupported operand type(s) for +: '_io.TextIOWrapper' and 'str'
+2022-03-27 21:47:54,247 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_6808/3407999990.py", line 12, in text
+    print(data + 'has' + count +'number of elements')
+TypeError: unsupported operand type(s) for +: '_io.TextIOWrapper' and 'str'
+2022-03-27 21:48:06,008 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:48:06,016 ERROR error has happendunsupported operand type(s) for +: '_io.TextIOWrapper' and 'str'
+2022-03-27 21:48:06,016 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_2972/3407999990.py", line 12, in text
+    print(data + 'has' + count +'number of elements')
+TypeError: unsupported operand type(s) for +: '_io.TextIOWrapper' and 'str'
+2022-03-27 21:48:06,016 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:48:06,024 ERROR error has happendunsupported operand type(s) for +: '_io.TextIOWrapper' and 'str'
+2022-03-27 21:48:06,024 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_2972/3407999990.py", line 12, in text
+    print(data + 'has' + count +'number of elements')
+TypeError: unsupported operand type(s) for +: '_io.TextIOWrapper' and 'str'
+2022-03-27 21:48:18,907 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:48:18,915 INFO executed successfully
+2022-03-27 21:48:18,923 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:48:18,923 INFO executed successfully
+2022-03-27 21:50:06,488 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:50:06,488 ERROR error has happendunsupported operand type(s) for +: 'int' and 'str'
+2022-03-27 21:50:06,488 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_2972/2589212038.py", line 12, in text
+    print(count + "number of elements")
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2022-03-27 21:50:06,488 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:50:06,488 ERROR error has happendunsupported operand type(s) for +: 'int' and 'str'
+2022-03-27 21:50:06,488 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_2972/2589212038.py", line 12, in text
+    print(count + "number of elements")
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2022-03-27 21:50:31,598 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:50:31,606 ERROR error has happendcan only concatenate str (not "int") to str
+2022-03-27 21:50:31,606 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_2972/3910131198.py", line 12, in text
+    print("number of elements" + count)
+TypeError: can only concatenate str (not "int") to str
+2022-03-27 21:50:31,606 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:50:31,606 ERROR error has happendcan only concatenate str (not "int") to str
+2022-03-27 21:50:31,606 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_2972/3910131198.py", line 12, in text
+    print("number of elements" + count)
+TypeError: can only concatenate str (not "int") to str
+2022-03-27 21:53:10,521 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:53:10,537 INFO executed successfully
+2022-03-27 21:53:10,537 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:53:10,537 INFO executed successfully
+2022-03-27 21:54:28,844 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:54:28,852 ERROR error has happendstr.format() argument after ** must be a mapping, not int
+2022-03-27 21:54:28,852 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_2972/1987909290.py", line 12, in text
+    print("Number of elements".format(**count))
+TypeError: str.format() argument after ** must be a mapping, not int
+2022-03-27 21:54:28,852 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:54:28,852 ERROR error has happendstr.format() argument after ** must be a mapping, not int
+2022-03-27 21:54:28,852 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_2972/1987909290.py", line 12, in text
+    print("Number of elements".format(**count))
+TypeError: str.format() argument after ** must be a mapping, not int
+2022-03-27 21:54:32,862 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:54:32,870 INFO executed successfully
+2022-03-27 21:54:32,870 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:54:32,870 INFO executed successfully
+2022-03-27 21:57:08,579 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:57:08,595 INFO executed successfully
+2022-03-27 21:57:08,595 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:57:08,595 INFO executed successfully
+2022-03-27 21:57:12,980 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:57:12,988 INFO executed successfully
+2022-03-27 21:57:12,988 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:57:12,996 INFO executed successfully
+2022-03-27 21:57:28,120 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:57:28,128 INFO executed successfully
+2022-03-27 21:57:28,128 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:57:28,136 INFO executed successfully
+2022-03-27 21:58:08,816 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:58:08,824 INFO executed successfully
+2022-03-27 21:58:08,824 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 21:58:08,832 INFO executed successfully
+2022-03-27 22:10:53,303 INFO I am trying to pass %s text file
+2022-03-27 22:10:53,303 ERROR Error occured
+2022-03-27 22:10:53,303 ERROR exception occuredI/O operation on closed file.
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_2972/1119274426.py", line 10, in count
+    for i in data:
+ValueError: I/O operation on closed file.
+2022-03-27 22:11:27,346 INFO I am trying to pass %s text file
+2022-03-27 22:11:27,346 ERROR Error occured
+2022-03-27 22:11:27,346 ERROR exception occuredI/O operation on closed file.
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_2972/2823068098.py", line 10, in count
+    for i in data:
+ValueError: I/O operation on closed file.
+ERROR:root:Error occured
+ERROR:root:exception occuredname 'data' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_7656/1855580975.py", line 10, in count
+    for i in data:
+NameError: name 'data' is not defined
+INFO:root:I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+INFO:root:I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+INFO:root:I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+INFO:root:I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+INFO:root:I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 22:17:07,018 ERROR Error occured
+2022-03-27 22:17:07,018 ERROR exception occuredname 'data' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_5072/1855580975.py", line 10, in count
+    for i in data:
+NameError: name 'data' is not defined
+2022-03-27 22:17:07,026 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:17:07,026 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:17:07,026 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:17:07,026 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:17:07,026 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 22:17:30,097 ERROR Error occured
+2022-03-27 22:17:30,097 ERROR exception occuredname 'data' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_3048/3332687141.py", line 10, in count
+    for i in data:
+NameError: name 'data' is not defined
+2022-03-27 22:17:30,097 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:17:30,097 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:17:30,105 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:17:30,105 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:17:30,105 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 22:17:47,824 ERROR Error occured
+2022-03-27 22:17:47,824 ERROR exception occuredI/O operation on closed file.
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_3048/2453982153.py", line 10, in count
+    for i in data:
+ValueError: I/O operation on closed file.
+2022-03-27 22:17:48,226 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:18:05,717 ERROR Error occured
+2022-03-27 22:18:05,725 ERROR exception occuredI/O operation on closed file.
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_3048/2453982153.py", line 10, in count
+    for i in data:
+ValueError: I/O operation on closed file.
+2022-03-27 22:18:35,355 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:19:38,130 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:19:46,552 ERROR Error occured
+2022-03-27 22:19:46,552 ERROR exception occuredname 'data' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_3684/42563938.py", line 10, in count
+    for i in data:
+NameError: name 'data' is not defined
+2022-03-27 22:19:46,688 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:20:42,286 ERROR Error occured
+2022-03-27 22:20:42,294 ERROR exception occuredI/O operation on closed file.
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_3684/1797402375.py", line 10, in count
+    for i in data:
+ValueError: I/O operation on closed file.
+2022-03-27 22:20:43,022 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:20:54,643 ERROR Error occured
+2022-03-27 22:20:54,643 ERROR exception occuredI/O operation on closed file.
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_3684/2139101139.py", line 10, in count
+    for i in data:
+ValueError: I/O operation on closed file.
+2022-03-27 22:20:55,691 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:21:04,357 ERROR Error occured
+2022-03-27 22:21:04,357 ERROR exception occuredname 'data' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_6448/2139101139.py", line 10, in count
+    for i in data:
+NameError: name 'data' is not defined
+2022-03-27 22:21:04,453 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:21:54,624 ERROR Error occured
+2022-03-27 22:21:54,624 ERROR exception occuredI/O operation on closed file.
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_6448/815702734.py", line 10, in count
+    for i in data:
+ValueError: I/O operation on closed file.
+2022-03-27 22:22:21,150 ERROR Error occured
+2022-03-27 22:22:21,150 ERROR exception occuredname 'data' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_740/815702734.py", line 10, in count
+    for i in data:
+NameError: name 'data' is not defined
+2022-03-27 22:22:45,338 ERROR Error occured
+2022-03-27 22:22:45,338 ERROR exception occuredname 'data' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_9432/815702734.py", line 10, in count
+    for i in data:
+NameError: name 'data' is not defined
+2022-03-27 22:23:51,562 ERROR Error occured
+2022-03-27 22:23:51,562 ERROR exception occuredname 'data' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_5748/185799485.py", line 10, in count
+    for i in data:
+NameError: name 'data' is not defined
+2022-03-27 22:23:58,294 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:24:32,310 ERROR Error occured
+2022-03-27 22:24:32,310 ERROR exception occuredname 'data' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_4776/495868304.py", line 10, in count
+    for i in data:
+NameError: name 'data' is not defined
+2022-03-27 22:24:32,310 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:25:20,867 ERROR Error occured
+2022-03-27 22:25:20,875 ERROR exception occuredI/O operation on closed file.
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_4776/2193916548.py", line 10, in count
+    for i in data:
+ValueError: I/O operation on closed file.
+2022-03-27 22:25:20,875 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:25:21,366 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:25:31,495 ERROR Error occured
+2022-03-27 22:25:31,495 ERROR exception occuredname 'data' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_8596/2193916548.py", line 10, in count
+    for i in data:
+NameError: name 'data' is not defined
+2022-03-27 22:25:31,495 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:27:15,207 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-03-27 22:27:15,408 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-03-27 22:27:21,272 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:27:34,964 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:27:34,972 INFO executed successfully
+2022-03-27 22:27:54,648 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:27:54,656 INFO executed successfully
+2022-03-27 22:28:08,969 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:28:08,977 INFO executed successfully
+2022-03-27 22:28:08,977 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:28:08,985 INFO executed successfully
+2022-03-27 22:28:08,985 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:28:09,057 INFO executed successfully
+2022-03-27 22:28:09,072 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 22:28:09,676 INFO executed successfully
+2022-03-27 22:28:09,676 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 22:28:10,159 INFO executed successfully
+2022-03-27 23:02:16,120 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:16,136 INFO executed successfully
+2022-03-27 23:02:16,136 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:16,136 INFO executed successfully
+2022-03-27 23:02:16,136 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:16,144 INFO executed successfully
+2022-03-27 23:02:16,144 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:16,160 INFO executed successfully
+2022-03-27 23:02:16,168 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 23:02:16,192 INFO executed successfully
+2022-03-27 23:02:25,712 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:25,728 INFO executed successfully
+2022-03-27 23:02:25,728 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:25,728 INFO executed successfully
+2022-03-27 23:02:25,728 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:25,736 INFO executed successfully
+2022-03-27 23:02:25,736 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:25,760 INFO executed successfully
+2022-03-27 23:02:25,760 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 23:02:25,784 INFO executed successfully
+2022-03-27 23:02:28,795 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:28,803 INFO executed successfully
+2022-03-27 23:02:28,803 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:28,811 INFO executed successfully
+2022-03-27 23:02:28,811 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:28,811 INFO executed successfully
+2022-03-27 23:02:28,819 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:02:28,835 INFO executed successfully
+2022-03-27 23:02:28,835 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 23:02:28,858 INFO executed successfully
+2022-03-27 23:03:22,933 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:03:22,941 INFO executed successfully
+2022-03-27 23:03:22,949 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:03:22,949 INFO executed successfully
+2022-03-27 23:03:22,949 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:03:22,957 INFO executed successfully
+2022-03-27 23:03:22,957 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:03:22,973 INFO executed successfully
+2022-03-27 23:03:22,981 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 23:03:22,996 INFO executed successfully
+2022-03-27 23:04:57,908 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:04:57,983 ERROR Error occured
+2022-03-27 23:04:57,983 ERROR exception occured' '
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_6612/2648676213.py", line 12, in text
+    print("The number of element in { } is {}".format(data,count))
+KeyError: ' '
+2022-03-27 23:04:57,998 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:04:57,998 ERROR Error occured
+2022-03-27 23:04:57,998 ERROR exception occured' '
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_6612/2648676213.py", line 12, in text
+    print("The number of element in { } is {}".format(data,count))
+KeyError: ' '
+2022-03-27 23:04:57,998 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:04:58,014 ERROR Error occured
+2022-03-27 23:04:58,014 ERROR exception occured' '
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_6612/2648676213.py", line 12, in text
+    print("The number of element in { } is {}".format(data,count))
+KeyError: ' '
+2022-03-27 23:04:58,014 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:04:58,076 ERROR Error occured
+2022-03-27 23:04:58,076 ERROR exception occured' '
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_6612/2648676213.py", line 12, in text
+    print("The number of element in { } is {}".format(data,count))
+KeyError: ' '
+2022-03-27 23:04:58,092 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 23:04:58,139 ERROR Error occured
+2022-03-27 23:04:58,139 ERROR exception occured' '
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_6612/2648676213.py", line 12, in text
+    print("The number of element in { } is {}".format(data,count))
+KeyError: ' '
+2022-03-27 23:05:12,506 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:05:12,514 INFO executed successfully
+2022-03-27 23:05:12,514 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:05:12,522 INFO executed successfully
+2022-03-27 23:05:12,522 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:05:12,522 INFO executed successfully
+2022-03-27 23:05:12,530 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:05:12,546 INFO executed successfully
+2022-03-27 23:05:12,546 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 23:05:12,578 INFO executed successfully
+2022-03-27 23:16:57,506 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:16:57,514 INFO executed successfully
+2022-03-27 23:16:57,522 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:16:57,522 INFO executed successfully
+2022-03-27 23:16:57,522 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:16:57,522 INFO executed successfully
+2022-03-27 23:16:57,530 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-27 23:16:57,546 INFO executed successfully
+2022-03-27 23:16:57,554 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-27 23:16:57,590 INFO executed successfully
+2022-03-28 00:18:20,955 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 00:18:20,969 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 00:18:20,972 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 00:18:20,975 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 00:18:21,009 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-28 20:54:33,655 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 20:54:34,161 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 20:54:34,361 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 20:54:34,501 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 20:54:34,908 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-28 21:08:13,208 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:13,270 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:13,280 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:13,297 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:13,424 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-28 21:08:29,962 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:30,026 INFO executed successfully
+2022-03-28 21:08:30,026 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:30,042 INFO executed successfully
+2022-03-28 21:08:30,042 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:30,057 INFO executed successfully
+2022-03-28 21:08:30,073 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:30,276 INFO executed successfully
+2022-03-28 21:08:30,292 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-28 21:08:30,734 INFO executed successfully
+2022-03-28 21:08:50,028 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:50,071 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:50,079 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:50,090 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:08:50,201 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-28 21:10:52,424 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:10:52,464 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:10:52,472 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:10:52,482 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-28 21:10:52,592 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 17:05:06,758 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:06,836 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:06,867 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:06,992 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:07,164 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 17:05:16,462 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:16,518 INFO executed successfully
+2022-03-30 17:05:16,534 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:16,534 INFO executed successfully
+2022-03-30 17:05:16,534 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:16,597 INFO executed successfully
+2022-03-30 17:05:16,597 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:16,815 INFO executed successfully
+2022-03-30 17:05:16,831 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 17:05:17,342 INFO executed successfully
+2022-03-30 17:05:29,562 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:29,594 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:29,602 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:29,617 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 17:05:29,727 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 17:16:25,040 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:16:33,857 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:16:33,857 ERROR error occuredname 're' is not defined
+2022-03-30 17:16:33,857 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_8752/2240511719.py", line 9, in word
+    return re.findall(r'[a-zA-Z]')
+NameError: name 're' is not defined
+2022-03-30 17:16:47,683 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf-8'> text file
+2022-03-30 17:16:47,691 ERROR error occuredname 're' is not defined
+2022-03-30 17:16:47,691 ERROR exception occured
+Traceback (most recent call last):
+  File "C:\Users\ROKAYA~1\AppData\Local\Temp/ipykernel_8752/1168243709.py", line 9, in word
+    print(re.findall(r'[a-zA-Z]'))
+NameError: name 're' is not defined
+2022-03-30 18:48:28,300 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:48:28,310 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:48:28,312 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:48:28,314 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:48:28,336 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:51:08,027 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:51:08,040 INFO executed successfully hello sajlkjdaskdsaa ramharishyam
+2022-03-30 18:51:08,041 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:51:08,045 INFO executed successfully hello sajlkjdaskdsaa ramharishyam
+2022-03-30 18:51:08,046 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:51:08,050 INFO executed successfully hello sajlkjdaskdsaa ramharishyam
+2022-03-30 18:51:08,050 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:51:08,073 INFO executed successfully hello sajlkjdaskdsaa ramharishyam
+2022-03-30 18:51:08,074 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:51:08,092 INFO executed successfully hello sajlkjdaskdsaa ramharishyam
+2022-03-30 18:51:41,020 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:51:41,074 INFO executed successfully
+2022-03-30 18:51:41,077 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:51:41,086 INFO executed successfully
+2022-03-30 18:51:41,087 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:51:41,121 INFO executed successfully
+2022-03-30 18:51:41,121 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:51:41,277 INFO executed successfully
+2022-03-30 18:51:41,293 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:51:41,647 INFO executed successfully
+2022-03-30 18:52:12,377 INFO I am trying to pass <_io.TextIOWrapper name='vocab.enron.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:52:12,484 INFO Executed successfully
+2022-03-30 18:52:12,484 INFO I am trying to pass <_io.TextIOWrapper name='vocab.kos.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:52:12,500 INFO Executed successfully
+2022-03-30 18:52:12,500 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nips.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:52:12,562 INFO Executed successfully
+2022-03-30 18:52:12,562 INFO I am trying to pass <_io.TextIOWrapper name='vocab.nytimes.txt' mode='r' encoding='cp1252'> text file
+2022-03-30 18:52:13,004 INFO Executed successfully
+2022-03-30 18:52:13,004 INFO I am trying to pass <_io.TextIOWrapper name='vocab.pubmed.txt' mode='r' encoding='utf8'> text file
+2022-03-30 18:52:13,572 INFO Executed successfully
+2022-03-30 18:53:03,450 INFO I am trying to pass %s text file
+2022-03-30 18:53:28,695 INFO executed successfully lkfjwkfkweo;ekwramshyam
